@@ -1,7 +1,6 @@
 # Angular + Bootstrap 4
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
-Made to learn about angular 4 from udemy course.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1. Made to learn about angular 4 from udemy course.
 
 ## Development server
 
